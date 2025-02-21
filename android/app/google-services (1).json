@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027899953354",
+    "project_id": "pareceived-4b",
+    "storage_bucket": "pareceived-4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027899953354:android:d867cc2b415a184cb26433",
+        "android_client_info": {
+          "package_name": "com.example.pareceived_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfo2d4ZURs-2qfgIMRkXCGo9mgw797-lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
